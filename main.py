@@ -1,3 +1,4 @@
+#%% Initials imports
 import pandas as pd
 
 #%% Load the dataset and first exploratory analisys
